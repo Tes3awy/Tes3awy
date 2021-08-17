@@ -24,20 +24,22 @@
 ![Jinja](https://img.shields.io/badge/-Jinja2-black?style=flat-square&logo=jinja)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Stackoverflow](https://img.shields.io/badge/-Stack%20Overflow-black?style=flat-square&logo=stackoverflow)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
 
 
 ### 🧲 Lets Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Osama%20Abbas-black?style=flat-square&logo=linkedin&color=0A66C2)](https://linkedin.com/in/oabbas/)
 [![Youtube](https://img.shields.io/badge/-GEEK%20LEAK-black?style=flat-square&logo=youtube&color=ff0000)](https://linkedin.com/in/oabbas/)
-[![Netlify](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=netlify)](https://tes3awy.netlify.app/)
+[![GitHub](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://tes3awy.github.io/)
+[![Stackoverflow](https://img.shields.io/badge/-Stack%20Overflow-black?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/5865393/tes3awy)
