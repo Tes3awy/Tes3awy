@@ -24,6 +24,8 @@
 ![Jinja](https://img.shields.io/badge/-Jinja2-black?style=flat-square&logo=jinja)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-black?style=flat-square&logo=aiohttp)
+![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
@@ -35,7 +37,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
-
+![Cisco Inc.](https://img.shields.io/badge/-Cisco-black?style=flat-square&logo=cisco)
 
 ### 🧲 Lets Connect
 
