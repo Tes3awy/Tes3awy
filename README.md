@@ -7,10 +7,10 @@
 [![Follow](https://img.shields.io/github/followers/Tes3awy?label=Follow&logo=GitHub&style=social)](https://github.com/Tes3awy)
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on <span style="font-weight: bold;">Cisco DevNet and Network Automation</span>
-- 🌱 I’m currently learning <span style="font-weight: bold;">Advanced Python</span>
+- 🔭 I’m currently working on **Cisco DevNet and Network Automation**
+- 🌱 I’m currently learning **Advanced Python**
 - 👯 I’m looking to collaborate on [Cisco DevNet](https://github.com/CiscoDevNet)
-- 📫 How to reach me: [oabbas2512@gmail.com](mailto:oabbas2512@gmail.com&subject=From%20GitHub%20Profile)
+- 📫 How to reach me: [oabbas2512@gmail.com](mailto:oabbas2512@gmail.com&subject=Hello%20From%20GitHub%20Profile)
 - 😄 Pronouns: <span style="font-weight: bold;">Tes3awy</span> _(Number 9)_
 - 😅 Fun fact: I used to be a software developer. Now, I'm a network automation engineer
 
