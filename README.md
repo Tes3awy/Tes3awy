@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-![Age](https://img.shields.io/static/v1?label=Age&message=29&color=black&style=flat-square)
-![Focus](https://img.shields.io/static/v1?label=Focus&message=Network%20Automation&color=black&style=flat-square)
+![Age](https://img.shields.io/static/v1?label=Age&message=30&color=black&style=flat-square)
+![Focus](https://img.shields.io/static/v1?label=Focus&message=Datacenter%20Automation&color=black&style=flat-square)
 ![Lives](https://img.shields.io/static/v1?label=Lives&message=Cairo,%20Egypt&color=black&style=flat-square)
 ![https://github.com/Tes3awy](https://komarev.com/ghpvc/?username=Tes3awy&label=Visitors&color=000000&style=flat-square)
 [![Follow](https://img.shields.io/github/followers/Tes3awy?label=Follow&logo=GitHub&style=social)](https://github.com/Tes3awy)
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Cisco DevNet and Data Center & Network Automation**
-- 🌱 I’m currently learning **Advanced Python**
+- 🌱 I’m currently learning Advanced Python, Web Apps, Ansible, and Terraform
 - 👯 I’m looking to collaborate on [Cisco DevNet](https://github.com/CiscoDevNet)
 - 📫 How to reach me: [oabbas2512@gmail.com](mailto:oabbas2512@gmail.com&subject=Hello%20From%20GitHub%20Profile)
 - 😄 Pronouns: <span style="font-weight: bold;">Tes3awy</span> _(Number 9)_
@@ -33,7 +33,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![CentOS](https://img.shields.io/badge/-CentOS-black?style=flat-square&logo=centos)
-![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
 
 
 ### 🧲 Lets Connect
