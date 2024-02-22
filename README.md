@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-![Age](https://img.shields.io/static/v1?label=Age&message=30&color=black&style=flat-square)
+![Age](https://img.shields.io/static/v1?label=Age&message=31&color=black&style=flat-square)
 ![Focus](https://img.shields.io/static/v1?label=Focus&message=Datacenter%20Automation&color=black&style=flat-square)
 ![Lives](https://img.shields.io/static/v1?label=Lives&message=Cairo,%20Egypt&color=black&style=flat-square)
 ![https://github.com/Tes3awy](https://komarev.com/ghpvc/?username=Tes3awy&label=Visitors&color=000000&style=flat-square)
 [![Follow](https://img.shields.io/github/followers/Tes3awy?label=Follow&logo=GitHub&style=social)](https://github.com/Tes3awy)
+
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Cisco DevNet and Data Center & Network Automation**
@@ -14,9 +15,23 @@
 - 😄 Pronouns: <span style="font-weight: bold;">Tes3awy</span> _(Number 9)_
 - 😅 Fun fact: I used to be a software developer. Now, I'm a data center and network automation engineer
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tes3awy&show_icons=true" alt="Stats" /></p>
+<a href="https://github.com/Tes3awy">
+    <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=Tes3awy&show_icons=true&theme=transparent" alt="Stats" />
+</a>
+<a href="https://github.com/Tes3awy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tes3awy&hide=javascript,scss,css&theme=transparent" height=200 alt="Top Langs" />
+</a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tes3awy&hide=javascript,scss,css" alt="Top Langs" /></p>
+---
+
+<a href="https://github.com/Tes3awy/cisco-config-auditor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Tes3awy&repo=cisco-config-auditor&theme=transparent" alt="Pinned Repo" />
+</a>
+<a href="https://github.com/Tes3awy/PSIRT">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Tes3awy&repo=PSIRT&theme=transparent" alt="Pinned Repo" />
+</a>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -34,10 +49,9 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![CentOS](https://img.shields.io/badge/-CentOS-black?style=flat-square&logo=centos)
 
-
 ### 🧲 Lets Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Osama%20Abbas-black?style=flat-square&logo=linkedin&color=0A66C2)](https://linkedin.com/in/oabbas/)
-[![Youtube](https://img.shields.io/badge/-GEEK%20LEAK-black?style=flat-square&logo=youtube&color=ff0000)](https://linkedin.com/in/oabbas/)
+[![Youtube](https://img.shields.io/badge/-GEEK%20LEAK-black?style=flat-square&logo=youtube&color=ff0000)](https://youtube.com/@GEEKLEAK25)
 [![GitHub](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://tes3awy.github.io/)
 [![Stackoverflow](https://img.shields.io/badge/-Stack%20Overflow-black?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/5865393/tes3awy)
